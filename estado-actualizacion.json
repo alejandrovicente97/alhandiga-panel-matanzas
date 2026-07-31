@@ -1,0 +1,166 @@
+{
+  "sociedad": "Alhándiga Ibéricos, S.L.",
+  "zona_horaria": "Europe/Madrid",
+  "ultima_actualizacion": {
+    "lanzada": "2026-07-31T10:34:27",
+    "lanzada_texto": "31/07/2026 10:34",
+    "equipo": "ALEJANDRO",
+    "disparador": "boton_publico",
+    "disparador_texto": "desde el botón «Actualizar» del enlace público",
+    "duracion_texto": "50 s",
+    "estado": "ok",
+    "estado_texto": "terminó bien",
+    "hubo_cambios": false,
+    "cambios_texto": "no había ficheros nuevos"
+  },
+  "datos_del_analisis": {
+    "generado": "2026-07-31 10:35:02",
+    "generado_texto": "31/07/2026 10:35"
+  },
+  "historial": [
+    {
+      "lanzada": "2026-07-31T10:34:27",
+      "lanzada_texto": "31/07/2026 10:34",
+      "equipo": "ALEJANDRO",
+      "disparador": "boton_publico",
+      "disparador_texto": "desde el botón «Actualizar» del enlace público",
+      "duracion_texto": "50 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-31T10:31:14",
+      "lanzada_texto": "31/07/2026 10:31",
+      "equipo": "ALEJANDRO",
+      "disparador": "boton",
+      "disparador_texto": "desde el botón «Actualizar» del panel",
+      "duracion_texto": "50 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-31T10:24:30",
+      "lanzada_texto": "31/07/2026 10:24",
+      "equipo": "ALEJANDRO",
+      "disparador": "boton_publico",
+      "disparador_texto": "desde el botón «Actualizar» del enlace público",
+      "duracion_texto": "49 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-31T10:14:38",
+      "lanzada_texto": "31/07/2026 10:14",
+      "equipo": "ALEJANDRO",
+      "disparador": "boton_publico",
+      "disparador_texto": "desde el botón «Actualizar» del enlace público",
+      "duracion_texto": "50 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-31T10:09:21",
+      "lanzada_texto": "31/07/2026 10:09",
+      "equipo": "ALEJANDRO",
+      "disparador": "boton_publico",
+      "disparador_texto": "desde el botón «Actualizar» del enlace público",
+      "duracion_texto": "31 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-31T10:02:50",
+      "lanzada_texto": "31/07/2026 10:02",
+      "equipo": "ALEJANDRO",
+      "disparador": "arranque",
+      "disparador_texto": "sola, al abrir la aplicación",
+      "duracion_texto": "1 min 8 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-31T09:27:58",
+      "lanzada_texto": "31/07/2026 09:27",
+      "equipo": "vm",
+      "disparador": "orden",
+      "disparador_texto": "desde la línea de órdenes",
+      "duracion_texto": "7,9 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-31T09:27:27",
+      "lanzada_texto": "31/07/2026 09:27",
+      "equipo": "vm",
+      "disparador": "orden",
+      "disparador_texto": "desde la línea de órdenes",
+      "duracion_texto": "8,2 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": true,
+      "cambios_texto": "se han leído 62 escandallos renombrados"
+    },
+    {
+      "lanzada": "2026-07-31T09:26:59",
+      "lanzada_texto": "31/07/2026 09:26",
+      "equipo": "vm",
+      "disparador": "orden",
+      "disparador_texto": "desde la línea de órdenes",
+      "duracion_texto": "4,0 s",
+      "estado": "error",
+      "estado_texto": "no se ha generado dashboard · no se ha generado publico",
+      "hubo_cambios": true,
+      "cambios_texto": "se han leído 10 escandallos renombrados · 52 escandallos borrados"
+    },
+    {
+      "lanzada": "2026-07-30T13:19:36",
+      "lanzada_texto": "30/07/2026 13:19",
+      "equipo": "vm",
+      "disparador": "orden",
+      "disparador_texto": "desde la línea de órdenes",
+      "duracion_texto": "9,3 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-30T13:18:41",
+      "lanzada_texto": "30/07/2026 13:18",
+      "equipo": "vm",
+      "disparador": "orden",
+      "disparador_texto": "desde la línea de órdenes",
+      "duracion_texto": "8,7 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
+    {
+      "lanzada": "2026-07-30T13:13:56",
+      "lanzada_texto": "30/07/2026 13:13",
+      "equipo": "vm",
+      "disparador": "orden",
+      "disparador_texto": "desde la línea de órdenes",
+      "duracion_texto": "8,1 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    }
+  ]
+}
