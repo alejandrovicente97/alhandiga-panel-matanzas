@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-07-31T10:52:33",
-    "lanzada_texto": "31/07/2026 10:52",
+    "lanzada": "2026-07-31T10:55:12",
+    "lanzada_texto": "31/07/2026 10:55",
     "equipo": "ALEJANDRO",
     "disparador": "boton_publico",
     "disparador_texto": "desde el botón «Actualizar» del enlace público",
-    "duracion_texto": "46 s",
+    "duracion_texto": "49 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-07-31 10:53:04",
-    "generado_texto": "31/07/2026 10:53"
+    "generado": "2026-07-31 10:55:45",
+    "generado_texto": "31/07/2026 10:55"
   },
   "historial": [
+    {
+      "lanzada": "2026-07-31T10:55:12",
+      "lanzada_texto": "31/07/2026 10:55",
+      "equipo": "ALEJANDRO",
+      "disparador": "boton_publico",
+      "disparador_texto": "desde el botón «Actualizar» del enlace público",
+      "duracion_texto": "49 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-07-31T10:52:33",
       "lanzada_texto": "31/07/2026 10:52",
       "equipo": "ALEJANDRO",
       "disparador": "boton_publico",
       "disparador_texto": "desde el botón «Actualizar» del enlace público",
-      "duracion_texto": "46 s",
+      "duracion_texto": "50 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "orden",
       "disparador_texto": "desde la línea de órdenes",
       "duracion_texto": "9,3 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-07-30T13:18:41",
-      "lanzada_texto": "30/07/2026 13:18",
-      "equipo": "vm",
-      "disparador": "orden",
-      "disparador_texto": "desde la línea de órdenes",
-      "duracion_texto": "8,7 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
