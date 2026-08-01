@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-01T08:20:22",
-    "lanzada_texto": "01/08/2026 08:20",
+    "lanzada": "2026-08-01T10:56:06",
+    "lanzada_texto": "01/08/2026 10:56",
     "equipo": "ALEJANDRO",
     "disparador": "programador",
     "disparador_texto": "sola, desde la tarea programada de Windows",
-    "duracion_texto": "35 s",
+    "duracion_texto": "22 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-01 08:20:53",
-    "generado_texto": "01/08/2026 08:20"
+    "generado": "2026-08-01 10:56:23",
+    "generado_texto": "01/08/2026 10:56"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-01T10:56:06",
+      "lanzada_texto": "01/08/2026 10:56",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "22 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-01T08:20:22",
       "lanzada_texto": "01/08/2026 08:20",
       "equipo": "ALEJANDRO",
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "35 s",
+      "duracion_texto": "41 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -149,18 +161,6 @@
       "estado_texto": "terminó bien",
       "hubo_cambios": true,
       "cambios_texto": "se han leído 62 escandallos renombrados"
-    },
-    {
-      "lanzada": "2026-07-31T09:26:59",
-      "lanzada_texto": "31/07/2026 09:26",
-      "equipo": "vm",
-      "disparador": "orden",
-      "disparador_texto": "desde la línea de órdenes",
-      "duracion_texto": "4,0 s",
-      "estado": "error",
-      "estado_texto": "no se ha generado dashboard · no se ha generado publico",
-      "hubo_cambios": true,
-      "cambios_texto": "se han leído 10 escandallos renombrados · 52 escandallos borrados"
     }
   ]
 }
