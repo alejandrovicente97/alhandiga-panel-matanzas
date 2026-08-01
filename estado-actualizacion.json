@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-07-31T10:55:12",
-    "lanzada_texto": "31/07/2026 10:55",
+    "lanzada": "2026-08-01T08:20:22",
+    "lanzada_texto": "01/08/2026 08:20",
     "equipo": "ALEJANDRO",
-    "disparador": "boton_publico",
-    "disparador_texto": "desde el botón «Actualizar» del enlace público",
-    "duracion_texto": "49 s",
+    "disparador": "programador",
+    "disparador_texto": "sola, desde la tarea programada de Windows",
+    "duracion_texto": "35 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-07-31 10:55:45",
-    "generado_texto": "31/07/2026 10:55"
+    "generado": "2026-08-01 08:20:53",
+    "generado_texto": "01/08/2026 08:20"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-01T08:20:22",
+      "lanzada_texto": "01/08/2026 08:20",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "35 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-07-31T10:55:12",
       "lanzada_texto": "31/07/2026 10:55",
       "equipo": "ALEJANDRO",
       "disparador": "boton_publico",
       "disparador_texto": "desde el botón «Actualizar» del enlace público",
-      "duracion_texto": "49 s",
+      "duracion_texto": "54 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -149,18 +161,6 @@
       "estado_texto": "no se ha generado dashboard · no se ha generado publico",
       "hubo_cambios": true,
       "cambios_texto": "se han leído 10 escandallos renombrados · 52 escandallos borrados"
-    },
-    {
-      "lanzada": "2026-07-30T13:19:36",
-      "lanzada_texto": "30/07/2026 13:19",
-      "equipo": "vm",
-      "disparador": "orden",
-      "disparador_texto": "desde la línea de órdenes",
-      "duracion_texto": "9,3 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
     }
   ]
 }
