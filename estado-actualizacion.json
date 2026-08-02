@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-01T10:56:06",
-    "lanzada_texto": "01/08/2026 10:56",
+    "lanzada": "2026-08-02T11:45:59",
+    "lanzada_texto": "02/08/2026 11:45",
     "equipo": "ALEJANDRO",
     "disparador": "programador",
     "disparador_texto": "sola, desde la tarea programada de Windows",
-    "duracion_texto": "22 s",
+    "duracion_texto": "1 min 19 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-01 10:56:23",
-    "generado_texto": "01/08/2026 10:56"
+    "generado": "2026-08-02 11:47:00",
+    "generado_texto": "02/08/2026 11:47"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-02T11:45:59",
+      "lanzada_texto": "02/08/2026 11:45",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "1 min 19 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-01T10:56:06",
       "lanzada_texto": "01/08/2026 10:56",
       "equipo": "ALEJANDRO",
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "22 s",
+      "duracion_texto": "32 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -149,18 +161,6 @@
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
       "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-07-31T09:27:27",
-      "lanzada_texto": "31/07/2026 09:27",
-      "equipo": "vm",
-      "disparador": "orden",
-      "disparador_texto": "desde la línea de órdenes",
-      "duracion_texto": "8,2 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": true,
-      "cambios_texto": "se han leído 62 escandallos renombrados"
     }
   ]
 }
