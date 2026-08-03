@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-03T09:15:12",
-    "lanzada_texto": "03/08/2026 09:15",
+    "lanzada": "2026-08-03T17:15:29",
+    "lanzada_texto": "03/08/2026 17:15",
     "equipo": "ALEJANDRO",
-    "disparador": "bat",
-    "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "16 s",
+    "disparador": "programador",
+    "disparador_texto": "sola, desde la tarea programada de Windows",
+    "duracion_texto": "1 min 17 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-03 09:15:23",
-    "generado_texto": "03/08/2026 09:15"
+    "generado": "2026-08-03 17:16:28",
+    "generado_texto": "03/08/2026 17:16"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-03T17:15:29",
+      "lanzada_texto": "03/08/2026 17:15",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "1 min 17 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-03T09:15:12",
       "lanzada_texto": "03/08/2026 09:15",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "16 s",
+      "duracion_texto": "28 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "boton_publico",
       "disparador_texto": "desde el botón «Actualizar» del enlace público",
       "duracion_texto": "31 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-07-31T10:02:50",
-      "lanzada_texto": "31/07/2026 10:02",
-      "equipo": "ALEJANDRO",
-      "disparador": "arranque",
-      "disparador_texto": "sola, al abrir la aplicación",
-      "duracion_texto": "1 min 8 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
