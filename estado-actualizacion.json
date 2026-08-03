@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-02T11:45:59",
-    "lanzada_texto": "02/08/2026 11:45",
+    "lanzada": "2026-08-03T09:15:12",
+    "lanzada_texto": "03/08/2026 09:15",
     "equipo": "ALEJANDRO",
-    "disparador": "programador",
-    "disparador_texto": "sola, desde la tarea programada de Windows",
-    "duracion_texto": "1 min 19 s",
+    "disparador": "bat",
+    "disparador_texto": "a mano, con «Actualizar.bat»",
+    "duracion_texto": "16 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-02 11:47:00",
-    "generado_texto": "02/08/2026 11:47"
+    "generado": "2026-08-03 09:15:23",
+    "generado_texto": "03/08/2026 09:15"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-03T09:15:12",
+      "lanzada_texto": "03/08/2026 09:15",
+      "equipo": "ALEJANDRO",
+      "disparador": "bat",
+      "disparador_texto": "a mano, con «Actualizar.bat»",
+      "duracion_texto": "16 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-02T11:45:59",
       "lanzada_texto": "02/08/2026 11:45",
       "equipo": "ALEJANDRO",
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "1 min 19 s",
+      "duracion_texto": "1 min 28 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "arranque",
       "disparador_texto": "sola, al abrir la aplicación",
       "duracion_texto": "1 min 8 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-07-31T09:27:58",
-      "lanzada_texto": "31/07/2026 09:27",
-      "equipo": "vm",
-      "disparador": "orden",
-      "disparador_texto": "desde la línea de órdenes",
-      "duracion_texto": "7,9 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
