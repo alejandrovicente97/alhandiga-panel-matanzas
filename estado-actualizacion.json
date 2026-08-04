@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T09:15:02",
-    "lanzada_texto": "04/08/2026 09:15",
+    "lanzada": "2026-08-04T11:34:05",
+    "lanzada_texto": "04/08/2026 11:34",
     "equipo": "ALEJANDRO",
-    "disparador": "programador",
-    "disparador_texto": "sola, desde la tarea programada de Windows",
-    "duracion_texto": "29 s",
+    "disparador": "bat",
+    "disparador_texto": "a mano, con «Actualizar.bat»",
+    "duracion_texto": "16 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
-    "hubo_cambios": false,
-    "cambios_texto": "no había ficheros nuevos"
+    "hubo_cambios": true,
+    "cambios_texto": "se han leído 2 escandallos nuevos · 698 facturas renombradas · 61 escandallos renombrados · 1 escandallo borrado"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 09:15:16",
-    "generado_texto": "04/08/2026 09:15"
+    "generado": "2026-08-04 11:34:17",
+    "generado_texto": "04/08/2026 11:34"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T11:34:05",
+      "lanzada_texto": "04/08/2026 11:34",
+      "equipo": "ALEJANDRO",
+      "disparador": "bat",
+      "disparador_texto": "a mano, con «Actualizar.bat»",
+      "duracion_texto": "16 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": true,
+      "cambios_texto": "se han leído 2 escandallos nuevos · 698 facturas renombradas · 61 escandallos renombrados · 1 escandallo borrado"
+    },
     {
       "lanzada": "2026-08-04T09:15:02",
       "lanzada_texto": "04/08/2026 09:15",
       "equipo": "ALEJANDRO",
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "29 s",
+      "duracion_texto": "34 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "boton",
       "disparador_texto": "desde el botón «Actualizar» del panel",
       "duracion_texto": "50 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-07-31T10:24:30",
-      "lanzada_texto": "31/07/2026 10:24",
-      "equipo": "ALEJANDRO",
-      "disparador": "boton_publico",
-      "disparador_texto": "desde el botón «Actualizar» del enlace público",
-      "duracion_texto": "49 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
