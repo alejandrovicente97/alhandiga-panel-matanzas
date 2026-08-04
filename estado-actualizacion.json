@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T17:00:21",
-    "lanzada_texto": "04/08/2026 17:00",
+    "lanzada": "2026-08-04T17:11:03",
+    "lanzada_texto": "04/08/2026 17:11",
     "equipo": "ALEJANDRO",
     "disparador": "bat",
     "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "28 s",
+    "duracion_texto": "26 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 17:00:40",
-    "generado_texto": "04/08/2026 17:00"
+    "generado": "2026-08-04 17:11:21",
+    "generado_texto": "04/08/2026 17:11"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T17:11:03",
+      "lanzada_texto": "04/08/2026 17:11",
+      "equipo": "ALEJANDRO",
+      "disparador": "bat",
+      "disparador_texto": "a mano, con «Actualizar.bat»",
+      "duracion_texto": "26 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-04T17:00:21",
       "lanzada_texto": "04/08/2026 17:00",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "28 s",
+      "duracion_texto": "34 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
       "duracion_texto": "1 min 49 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-08-03T09:15:12",
-      "lanzada_texto": "03/08/2026 09:15",
-      "equipo": "ALEJANDRO",
-      "disparador": "bat",
-      "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "28 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
