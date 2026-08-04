@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T17:11:03",
-    "lanzada_texto": "04/08/2026 17:11",
+    "lanzada": "2026-08-04T17:15:02",
+    "lanzada_texto": "04/08/2026 17:15",
     "equipo": "ALEJANDRO",
-    "disparador": "bat",
-    "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "26 s",
+    "disparador": "programador",
+    "disparador_texto": "sola, desde la tarea programada de Windows",
+    "duracion_texto": "40 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 17:11:21",
-    "generado_texto": "04/08/2026 17:11"
+    "generado": "2026-08-04 17:15:26",
+    "generado_texto": "04/08/2026 17:15"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T17:15:02",
+      "lanzada_texto": "04/08/2026 17:15",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "40 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-04T17:11:03",
       "lanzada_texto": "04/08/2026 17:11",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "26 s",
+      "duracion_texto": "32 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
       "duracion_texto": "49 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-08-03T17:15:29",
-      "lanzada_texto": "03/08/2026 17:15",
-      "equipo": "ALEJANDRO",
-      "disparador": "programador",
-      "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "1 min 49 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
