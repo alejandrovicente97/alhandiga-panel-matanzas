@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T09:13:45",
-    "lanzada_texto": "04/08/2026 09:13",
+    "lanzada": "2026-08-04T09:15:02",
+    "lanzada_texto": "04/08/2026 09:15",
     "equipo": "ALEJANDRO",
-    "disparador": "bat",
-    "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "42 s",
+    "disparador": "programador",
+    "disparador_texto": "sola, desde la tarea programada de Windows",
+    "duracion_texto": "29 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 09:14:11",
-    "generado_texto": "04/08/2026 09:14"
+    "generado": "2026-08-04 09:15:16",
+    "generado_texto": "04/08/2026 09:15"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T09:15:02",
+      "lanzada_texto": "04/08/2026 09:15",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "29 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-04T09:13:45",
       "lanzada_texto": "04/08/2026 09:13",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "42 s",
+      "duracion_texto": "49 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "boton_publico",
       "disparador_texto": "desde el botón «Actualizar» del enlace público",
       "duracion_texto": "49 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-07-31T10:14:38",
-      "lanzada_texto": "31/07/2026 10:14",
-      "equipo": "ALEJANDRO",
-      "disparador": "boton_publico",
-      "disparador_texto": "desde el botón «Actualizar» del enlace público",
-      "duracion_texto": "50 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
