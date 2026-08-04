@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T16:44:26",
-    "lanzada_texto": "04/08/2026 16:44",
+    "lanzada": "2026-08-04T17:00:21",
+    "lanzada_texto": "04/08/2026 17:00",
     "equipo": "ALEJANDRO",
     "disparador": "bat",
     "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "27 s",
+    "duracion_texto": "28 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 16:44:45",
-    "generado_texto": "04/08/2026 16:44"
+    "generado": "2026-08-04 17:00:40",
+    "generado_texto": "04/08/2026 17:00"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T17:00:21",
+      "lanzada_texto": "04/08/2026 17:00",
+      "equipo": "ALEJANDRO",
+      "disparador": "bat",
+      "disparador_texto": "a mano, con «Actualizar.bat»",
+      "duracion_texto": "28 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-04T16:44:26",
       "lanzada_texto": "04/08/2026 16:44",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "27 s",
+      "duracion_texto": "34 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
       "duracion_texto": "28 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-08-02T11:45:59",
-      "lanzada_texto": "02/08/2026 11:45",
-      "equipo": "ALEJANDRO",
-      "disparador": "programador",
-      "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "1 min 28 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
