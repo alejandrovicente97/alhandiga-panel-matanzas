@@ -1,0 +1,4 @@
+# Las facturas no se indexan. Esto lo respetan los buscadores serios; no es una
+# contraseña: quien tenga la dirección exacta las abre igual.
+User-agent: *
+Disallow: /facturas/

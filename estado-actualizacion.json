@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T11:34:05",
-    "lanzada_texto": "04/08/2026 11:34",
+    "lanzada": "2026-08-04T14:32:09",
+    "lanzada_texto": "04/08/2026 14:32",
     "equipo": "ALEJANDRO",
     "disparador": "bat",
     "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "16 s",
+    "duracion_texto": "4 min 17 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": true,
-    "cambios_texto": "se han leído 2 escandallos nuevos · 698 facturas renombradas · 61 escandallos renombrados · 1 escandallo borrado"
+    "cambios_texto": "se han leído 1 factura nueva"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 11:34:17",
-    "generado_texto": "04/08/2026 11:34"
+    "generado": "2026-08-04 14:36:10",
+    "generado_texto": "04/08/2026 14:36"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T14:32:09",
+      "lanzada_texto": "04/08/2026 14:32",
+      "equipo": "ALEJANDRO",
+      "disparador": "bat",
+      "disparador_texto": "a mano, con «Actualizar.bat»",
+      "duracion_texto": "4 min 17 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": true,
+      "cambios_texto": "se han leído 1 factura nueva"
+    },
     {
       "lanzada": "2026-08-04T11:34:05",
       "lanzada_texto": "04/08/2026 11:34",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "16 s",
+      "duracion_texto": "22 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": true,
@@ -145,18 +157,6 @@
       "disparador": "boton_publico",
       "disparador_texto": "desde el botón «Actualizar» del enlace público",
       "duracion_texto": "53 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-07-31T10:31:14",
-      "lanzada_texto": "31/07/2026 10:31",
-      "equipo": "ALEJANDRO",
-      "disparador": "boton",
-      "disparador_texto": "desde el botón «Actualizar» del panel",
-      "duracion_texto": "50 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
