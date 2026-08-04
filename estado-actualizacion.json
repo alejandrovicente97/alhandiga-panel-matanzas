@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T15:28:55",
-    "lanzada_texto": "04/08/2026 15:28",
+    "lanzada": "2026-08-04T16:26:44",
+    "lanzada_texto": "04/08/2026 16:26",
     "equipo": "ALEJANDRO",
     "disparador": "bat",
     "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "26 s",
+    "duracion_texto": "24 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 15:29:13",
-    "generado_texto": "04/08/2026 15:29"
+    "generado": "2026-08-04 16:27:01",
+    "generado_texto": "04/08/2026 16:27"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T16:26:44",
+      "lanzada_texto": "04/08/2026 16:26",
+      "equipo": "ALEJANDRO",
+      "disparador": "bat",
+      "disparador_texto": "a mano, con «Actualizar.bat»",
+      "duracion_texto": "24 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-04T15:28:55",
       "lanzada_texto": "04/08/2026 15:28",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "26 s",
+      "duracion_texto": "32 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
       "duracion_texto": "32 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-08-01T08:20:22",
-      "lanzada_texto": "01/08/2026 08:20",
-      "equipo": "ALEJANDRO",
-      "disparador": "programador",
-      "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "41 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
