@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T17:45:21",
-    "lanzada_texto": "04/08/2026 17:45",
+    "lanzada": "2026-08-04T20:30:02",
+    "lanzada_texto": "04/08/2026 20:30",
     "equipo": "ALEJANDRO",
-    "disparador": "bat",
-    "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "30 s",
+    "disparador": "programador",
+    "disparador_texto": "sola, desde la tarea programada de Windows",
+    "duracion_texto": "17 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 17:45:39",
-    "generado_texto": "04/08/2026 17:45"
+    "generado": "2026-08-04 20:30:15",
+    "generado_texto": "04/08/2026 20:30"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T20:30:02",
+      "lanzada_texto": "04/08/2026 20:30",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "17 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-04T17:45:21",
       "lanzada_texto": "04/08/2026 17:45",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "30 s",
+      "duracion_texto": "37 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -149,18 +161,6 @@
       "estado_texto": "terminó bien",
       "hubo_cambios": true,
       "cambios_texto": "se han leído 1 factura nueva"
-    },
-    {
-      "lanzada": "2026-08-04T11:34:05",
-      "lanzada_texto": "04/08/2026 11:34",
-      "equipo": "ALEJANDRO",
-      "disparador": "bat",
-      "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "22 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": true,
-      "cambios_texto": "se han leído 2 escandallos nuevos · 698 facturas renombradas · 61 escandallos renombrados · 1 escandallo borrado"
     }
   ]
 }
