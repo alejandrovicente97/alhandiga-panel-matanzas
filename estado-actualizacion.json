@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T14:45:34",
-    "lanzada_texto": "04/08/2026 14:45",
+    "lanzada": "2026-08-04T15:14:01",
+    "lanzada_texto": "04/08/2026 15:14",
     "equipo": "ALEJANDRO",
     "disparador": "bat",
     "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "5 min 7 s",
+    "duracion_texto": "34 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 14:50:18",
-    "generado_texto": "04/08/2026 14:50"
+    "generado": "2026-08-04 15:14:18",
+    "generado_texto": "04/08/2026 15:14"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-04T15:14:01",
+      "lanzada_texto": "04/08/2026 15:14",
+      "equipo": "ALEJANDRO",
+      "disparador": "bat",
+      "disparador_texto": "a mano, con «Actualizar.bat»",
+      "duracion_texto": "34 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-04T14:45:34",
       "lanzada_texto": "04/08/2026 14:45",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "5 min 7 s",
+      "duracion_texto": "5 min 16 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "boton_publico",
       "disparador_texto": "desde el botón «Actualizar» del enlace público",
       "duracion_texto": "54 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-07-31T10:52:33",
-      "lanzada_texto": "31/07/2026 10:52",
-      "equipo": "ALEJANDRO",
-      "disparador": "boton_publico",
-      "disparador_texto": "desde el botón «Actualizar» del enlace público",
-      "duracion_texto": "50 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
