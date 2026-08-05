@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-04T20:30:02",
-    "lanzada_texto": "04/08/2026 20:30",
+    "lanzada": "2026-08-05T09:13:13",
+    "lanzada_texto": "05/08/2026 09:13",
     "equipo": "ALEJANDRO",
     "disparador": "programador",
     "disparador_texto": "sola, desde la tarea programada de Windows",
-    "duracion_texto": "17 s",
+    "duracion_texto": "29 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-04 20:30:15",
-    "generado_texto": "04/08/2026 20:30"
+    "generado": "2026-08-05 09:13:38",
+    "generado_texto": "05/08/2026 09:13"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-05T09:13:13",
+      "lanzada_texto": "05/08/2026 09:13",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "29 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-04T20:30:02",
       "lanzada_texto": "04/08/2026 20:30",
       "equipo": "ALEJANDRO",
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "17 s",
+      "duracion_texto": "23 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -149,18 +161,6 @@
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
       "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-08-04T14:32:09",
-      "lanzada_texto": "04/08/2026 14:32",
-      "equipo": "ALEJANDRO",
-      "disparador": "bat",
-      "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "5 min 18 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": true,
-      "cambios_texto": "se han leído 1 factura nueva"
     }
   ]
 }
