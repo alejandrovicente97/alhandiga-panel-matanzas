@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-05T17:30:05",
-    "lanzada_texto": "05/08/2026 17:30",
+    "lanzada": "2026-08-05T18:30:37",
+    "lanzada_texto": "05/08/2026 18:30",
     "equipo": "ALEJANDRO",
-    "disparador": "programador",
-    "disparador_texto": "sola, desde la tarea programada de Windows",
-    "duracion_texto": "57 s",
+    "disparador": "bat",
+    "disparador_texto": "a mano, con «Actualizar.bat»",
+    "duracion_texto": "21 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
-    "hubo_cambios": false,
-    "cambios_texto": "no había ficheros nuevos"
+    "hubo_cambios": true,
+    "cambios_texto": "se han leído 5 escandallos nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-05 17:30:47",
-    "generado_texto": "05/08/2026 17:30"
+    "generado": "2026-08-05 18:30:53",
+    "generado_texto": "05/08/2026 18:30"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-05T18:30:37",
+      "lanzada_texto": "05/08/2026 18:30",
+      "equipo": "ALEJANDRO",
+      "disparador": "bat",
+      "disparador_texto": "a mano, con «Actualizar.bat»",
+      "duracion_texto": "21 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": true,
+      "cambios_texto": "se han leído 5 escandallos nuevos"
+    },
     {
       "lanzada": "2026-08-05T17:30:05",
       "lanzada_texto": "05/08/2026 17:30",
       "equipo": "ALEJANDRO",
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "57 s",
+      "duracion_texto": "1 min 7 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "programador",
       "disparador_texto": "sola, desde la tarea programada de Windows",
       "duracion_texto": "31 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-08-04T17:15:02",
-      "lanzada_texto": "04/08/2026 17:15",
-      "equipo": "ALEJANDRO",
-      "disparador": "programador",
-      "disparador_texto": "sola, desde la tarea programada de Windows",
-      "duracion_texto": "47 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
