@@ -2,29 +2,41 @@
   "sociedad": "Alhándiga Ibéricos, S.L.",
   "zona_horaria": "Europe/Madrid",
   "ultima_actualizacion": {
-    "lanzada": "2026-08-05T11:06:13",
-    "lanzada_texto": "05/08/2026 11:06",
+    "lanzada": "2026-08-05T11:30:02",
+    "lanzada_texto": "05/08/2026 11:30",
     "equipo": "ALEJANDRO",
-    "disparador": "bat",
-    "disparador_texto": "a mano, con «Actualizar.bat»",
-    "duracion_texto": "19 s",
+    "disparador": "programador",
+    "disparador_texto": "sola, desde la tarea programada de Windows",
+    "duracion_texto": "15 s",
     "estado": "ok",
     "estado_texto": "terminó bien",
     "hubo_cambios": false,
     "cambios_texto": "no había ficheros nuevos"
   },
   "datos_del_analisis": {
-    "generado": "2026-08-05 11:06:26",
-    "generado_texto": "05/08/2026 11:06"
+    "generado": "2026-08-05 11:30:12",
+    "generado_texto": "05/08/2026 11:30"
   },
   "historial": [
+    {
+      "lanzada": "2026-08-05T11:30:02",
+      "lanzada_texto": "05/08/2026 11:30",
+      "equipo": "ALEJANDRO",
+      "disparador": "programador",
+      "disparador_texto": "sola, desde la tarea programada de Windows",
+      "duracion_texto": "15 s",
+      "estado": "ok",
+      "estado_texto": "terminó bien",
+      "hubo_cambios": false,
+      "cambios_texto": "no había ficheros nuevos"
+    },
     {
       "lanzada": "2026-08-05T11:06:13",
       "lanzada_texto": "05/08/2026 11:06",
       "equipo": "ALEJANDRO",
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "19 s",
+      "duracion_texto": "25 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
@@ -145,18 +157,6 @@
       "disparador": "bat",
       "disparador_texto": "a mano, con «Actualizar.bat»",
       "duracion_texto": "34 s",
-      "estado": "ok",
-      "estado_texto": "terminó bien",
-      "hubo_cambios": false,
-      "cambios_texto": "no había ficheros nuevos"
-    },
-    {
-      "lanzada": "2026-08-04T16:26:44",
-      "lanzada_texto": "04/08/2026 16:26",
-      "equipo": "ALEJANDRO",
-      "disparador": "bat",
-      "disparador_texto": "a mano, con «Actualizar.bat»",
-      "duracion_texto": "30 s",
       "estado": "ok",
       "estado_texto": "terminó bien",
       "hubo_cambios": false,
